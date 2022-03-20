@@ -1,8 +1,8 @@
-# PROGRAM README
-
 # Program Description
-The program generates a simulation of a virtualized world from a file.
-Various scenarios may be imported into the software to investigate diverse facets and aspects of the environment.
+Program generates a simulation of a virtualized world using an imput file provided at runtime.
+Various scenarios can be imported into the software to investigate diverse facets and aspects of an environment. 
+Use the three sample test files provided to explore the program or you can create and import your own test data 
+following the format of the test files.
 
 # Version Information
 - Developed in Python 3.8.10 64-bit
