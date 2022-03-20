@@ -42,7 +42,7 @@ following the format of the test files.
 - UnitTestLinkedList.py: LinkedList.py
 
 # How to run the program
-- The program has 3 different modes to choose from where each mode activated with differnt command line argunemnts.
+- The program has 3 different modes to choose from where each mode is activated with differnt command line argunemnts.
 
 - Mode1: Running no command line argunments will display on how to use the program.
 - eg: python3 gameofcatz.py
