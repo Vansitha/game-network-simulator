@@ -49,10 +49,10 @@ following the format of the test files.
 - To select an option in the interative mode type the character within the brackets 
 - eg: (1). Loadfile -> type '1' to select the load file option
 
-- Mode2: Running with "-i" flag a command line argunement will activate the interative testing enviornment
+- Mode2: Running with "-i" flag as a command line argunement will activate the interative testing enviornment
 - eg: python3 gameofcatz.py -i
 
-- Mode3: When run with "-s inputfile.txt outputfile.txt," the simulation mode is activated, and the routes for the supplied input file are generated and output to the filename specified.
+- Mode3: When run with "-s [inputfile.txt] [outputfile.txt]," the simulation mode is activated, and the routes for the supplied input file are generated and output to the filename specified.
 eg: python3 gameofcatz.py -s inputfile.txt outputfile.txt
 
 Program Version 1.0
