@@ -1,7 +1,7 @@
 # ***********************************************************************************
 # FILE: Graph.py
 # Author: Vansitha Induja Ratnayake
-# PURPOSE: To create a generaly purpose graph data strcutre
+# PURPOSE: To create a general purpose graph data strcutre
 # REFERENCE: This file has been submitted previously for DSA COMP1002 Practical 6
 #            (Graphs) submission.
 #            Ratanayke, Vansitha Induja. COMP1002 Graphs Practical 6 Submission
