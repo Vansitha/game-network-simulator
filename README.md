@@ -7,15 +7,14 @@ following the format of the test files.
 # How to run the program
 - The program has 3 different modes to choose from where each mode is activated with differnt command line argunemnts.
 
-- Mode1: Running no command line argunments will display on how to use the program.
-- eg: python3 gameofcatz.py
-- To select an option in the interative mode type the character within the brackets 
-- eg: (1). Loadfile -> type '1' to select the load file option
+- Mode1: Display usage information
+- `python3 gameofcatz.py`
+- To select an option in the interative mode type the number within the brackets 
 
-- Mode2: Running with "-i" flag as a command line argunement will activate the interative testing enviornment
-- eg: python3 gameofcatz.py -i
+- Mode2: Interactive testing environment
+- `python3 gameofcatz.py -i`
 
-- Mode3: When run with "-s [inputfile.txt] [outputfile.txt]," the simulation mode is activated, and the routes for the supplied input file are generated and output to the filename specified.
-eg: python3 gameofcatz.py -s inputfile.txt outputfile.txt
+- Mode3: Simulation mode
+- `python3 gameofcatz.py -s inputfile.txt outputfile.txt`
 
 Version 1.0
