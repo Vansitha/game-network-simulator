@@ -7,14 +7,14 @@ following the format of the test files.
 # How to run the program
 - The program has 3 different modes to choose from where each mode is activated with differnt command line argunemnts.
 
-- Mode1: Display usage information
+### Mode1: Display usage information
 - `python3 gameofcatz.py`
 - To select an option in the interative mode type the number within the brackets 
 
-- Mode2: Interactive testing environment
+### Mode2: Interactive testing environment
 - `python3 gameofcatz.py -i`
 
-- Mode3: Simulation mode
+### Mode3: Simulation mode
 - `python3 gameofcatz.py -s inputfile.txt outputfile.txt`
 
 Version 1.0
