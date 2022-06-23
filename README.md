@@ -4,43 +4,6 @@ Various scenarios can be imported to investigate diverse facets and aspects of a
 Use the three sample test files provided to explore the program or you can create and import your own test data 
 following the format of the test files.
 
-# Version Information
-- Developed in Python 3.8.10 64-bit
-- Numpy 1.20.3
-
-# Python3 Standared Libraires Utilised
-- sys
-- os
-- pickle
-- math
-- timeit
-
-# File Descriptions
-- gameofcatz.py: main program file. Connects all functionality together
-- createNetwork.py: Building the world and handling world operations
-- userInterface.py: Front end for program
-- Graph.py: Implementation of a generic graph data strcuture
-- UnitTestGraph.py: Tests for Graph.py
-- HashTable.py: Implementation of a generic hash table data strcuture
-- UnitTestHashTable.py: Tests for HashTable.py
-- LinkedList.py: Implementation of a generic linked list data structure
-- UnitTestLinkedList.py: Tests for linkedList.py
-- gameofcatz.txt: Test data
-- pacman.txt: Test data
-- snakeandladders2.txt: Test data
-- README
-
-# Dependencies
-- gameofcatz.py: sys, timeit, userInterface.py, createNetwork.py
-- createNetwork.py: pickle, Graph.py, HashTable.py
-- userInterface.py: sys, os
-- Graph.py: numpy, LinkedList.py
-- UnitTestGraph.py: Graph.py
-- HashTable.py: math, numpy
-- UnitTestHashTable.py: HashTable.py
-- LinkedList.py: None
-- UnitTestLinkedList.py: LinkedList.py
-
 # How to run the program
 - The program has 3 different modes to choose from where each mode is activated with differnt command line argunemnts.
 
@@ -55,4 +18,4 @@ following the format of the test files.
 - Mode3: When run with "-s [inputfile.txt] [outputfile.txt]," the simulation mode is activated, and the routes for the supplied input file are generated and output to the filename specified.
 eg: python3 gameofcatz.py -s inputfile.txt outputfile.txt
 
-Program Version 1.0
+Version 1.0
